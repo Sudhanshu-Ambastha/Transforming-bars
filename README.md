@@ -22,4 +22,4 @@ Feel free to customize the animation by adjusting the colors, durations, or any 
 
 ## Credits
 
-This project was created by Sudhanshu Ambastha.
+This project was created by [Sudhanshu Ambastha](https://github.com/Sudhanshu-Ambastha).
