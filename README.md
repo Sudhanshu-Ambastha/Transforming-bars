@@ -22,4 +22,6 @@ Feel free to customize the animation by adjusting the colors, durations, or any 
 
 ## Credits
 
-This project was created by [Sudhanshu Ambastha](https://github.com/Sudhanshu-Ambastha).
+This project was created by <a href = "https://github.com/Sudhanshu-Ambastha/Transforming-bars/contributors">
+  <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Transforming-bars"/>
+</a>
